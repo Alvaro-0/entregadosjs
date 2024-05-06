@@ -1,0 +1,12 @@
+.articulos  {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+
+    img{
+        height: 100px;
+        right: 100px;
+    }
+
+}
+
